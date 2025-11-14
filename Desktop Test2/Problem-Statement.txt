@@ -1,0 +1,58 @@
+Assessment: CAD Parts Repository System
+Objective
+Design and implement a console-based CAD Parts Repository System in C++,
+demonstrating advanced programming concepts such as Object-Oriented
+Design, templates, smart pointers, operator overloading, and dynamic
+memory management.
+Problem Statement
+Your organization maintains a CAD Parts Repository for mechanical design
+projects. You are required to create a C++ application that allows managing
+CAD parts (e.g., Pipes, Valves, Elbows, Flanges) stored in memory. The system
+should enable adding, viewing, searching, and deleting parts. Each part
+should have common properties (like ID, name, material, diameter) and
+specific properties depending on the type. The application must use a clean,
+modular design and reflect a strong understanding of advanced C++
+programming.
+Requirements
+? Your program should:
+? Demonstrate strong Object-Oriented Design with inheritance and
+polymorphism.
+? Use templates and smart pointers for in-memory management.
+? Employ operator overloading where relevant.
+? Handle dynamic memory effectively (no leaks).
+? Include error and exception handling for invalid inputs or operations.
+? Follow modular structure (headers, source files, etc.).
+? Use STL containers and algorithms appropriately.
+? Include a simple console menu for interaction.
+Concepts to Demonstrate
+? OOP: Abstraction, Encapsulation, Inheritance, Polymorphism
+? Smart Pointers (unique_ptr, shared_ptr)
+
+? Templates and Generic Programming
+? Operator Overloading
+? Exception Handling
+? Dynamic Memory Management
+? STL Containers and Iterators
+? Code Modularity and Reusability
+Suggested Duration
+1 Day (8 Hrs.)
+Evaluation Criteria
+? Clarity of OOP design and class hierarchy
+? Proper use of inheritance and polymorphism
+? Implementation of templates or generic structures
+? Correct use of smart pointers and memory management
+? Use of operator overloading
+? Implementation of exception handling
+? Logical structuring of code and files
+? Readability and commenting
+? Effective use of STL containers
+? Handling of user input and menu-driven flow
+? Demonstration of reusability and extensibility in design
+? Appropriate naming conventions and coding standards
+? Functional correctness of operations (add/view/search/delete)
+? Output clarity and formatting
+? Innovation or additional useful features (optional)
+Deliverables
+? Source code files (.git link)
+? Sample input/output screenshots/Videos
+? README with brief explanation of design approach
